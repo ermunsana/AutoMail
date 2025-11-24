@@ -20,7 +20,7 @@ BODY = """
 
 """
 
-ATTACHMENT = "mac.pdf" 
+ATTACHMENT = "" 
 
 
 def log(message):
